@@ -25,7 +25,8 @@ make start
 
 ## Testing
 
-Open the following file in your browser: `demo/web/index.html`
+Open the following file in your browser: 
+`demo/web/index.html`
 
 * Enable the option "Auto-Refresh" to continuously poll for new results
 * Click the button "Create new request" to send a new request to the backend API
