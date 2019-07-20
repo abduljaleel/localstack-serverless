@@ -1,6 +1,8 @@
+[![Build Status](https://travis-ci.org/whummer/localstack-demo.svg?branch=master)](https://travis-ci.org/whummer/localstack-demo)
+
 # LocalStack Demo
 
-Simple demo application deployed using LocalStack.
+Simple demo application deployed using LocalStack, developed using the Serverless framework.
 
 ## Prerequisites
 
@@ -25,8 +27,7 @@ make start
 
 ## Testing
 
-Open the following file in your browser: 
-`demo/web/index.html`
+Open the following file in your browser: `demo/web/index.html`
 
 * Enable the option "Auto-Refresh" to continuously poll for new results
 * Click the button "Create new request" to send a new request to the backend API
