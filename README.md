@@ -38,6 +38,11 @@ If you have the [`awslocal`](https://github.com/localstack/awscli-local) command
 awslocal s3 ls s3://archiveBucket/
 ```
 
+## Dashboard
+
+Install Commandeer to view the resources  https://getcommandeer.com/
+
+
 ## License
 
 This code is available under the Apache 2.0 license.
