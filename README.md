@@ -4,6 +4,16 @@
 
 Simple demo application deployed using LocalStack, developed using the Serverless framework.
 
+This demo uses following AWS Services (ofcourse, locally)
+
+* API Gateway
+* CloudFormation
+* Lamda
+* S3
+* SQS
+* DynamoDB
+
+
 ## Prerequisites
 
 * LocalStack
