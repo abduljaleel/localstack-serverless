@@ -12,6 +12,7 @@ This demo uses following AWS Services (ofcourse, locally)
 * S3
 * SQS
 * DynamoDB
+* Step Functions
 
 
 ## Prerequisites
