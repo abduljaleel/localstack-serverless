@@ -1,5 +1,5 @@
 export DOCKER_BRIDGE ?= $(shell (uname -a | grep Linux > /dev/null) && echo 172.17.0.1 || echo docker.for.mac.localhost)
-export SERVICES = serverless,cloudformation,sts,stepfunctions,sqs
+export SERVICES = serverless,cloudformation,sts,stepfunctions,sqs,cloudwatch,ec2
 export START_WEB ?= 1
 
 usage:           ## Show this help
