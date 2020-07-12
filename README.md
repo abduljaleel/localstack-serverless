@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/whummer/localstack-demo.svg?branch=master)](https://travis-ci.org/whummer/localstack-demo)
 
-# LocalStack Demo
+# LocalStack Serverless 
 
 Simple demo application deployed using LocalStack, developed using the Serverless framework.
 
